@@ -17,18 +17,16 @@ To get the code from GitHub, follow these instructions:
    - Open PowerShell and navigate to the directory where you want to clone the repository.
    - Run the following command:
      ```powershell
-     git clone https://github.com/yourusername/yourrepository.git
+     git clone https://github.com/dallemang/MageScrape.git
      ```
-   - Replace `yourusername` and `yourrepository` with the actual GitHub username and repository name.
 
 2. **Mac (Terminal)**:
    - Ensure you have [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed. You can install it via Homebrew by running `brew install git` if you don't have it.
    - Open Terminal and navigate to the directory where you want to clone the repository.
    - Run the following command:
      ```sh
-     git clone https://github.com/yourusername/yourrepository.git
+     git clone https://github.com/dallemang/MageScrape.git
      ```
-   - Replace `yourusername` and `yourrepository` with the actual GitHub username and repository name.
 
 This will create a local copy of the repository on your machine, which you can then navigate to and run the scripts as described in the README.
 
