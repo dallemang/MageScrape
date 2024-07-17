@@ -6,6 +6,32 @@ Mage.space has announced the retirement of their image services and suggested th
 
 This tool is designed for users of the Mage UI who need to recover their images. It is intended to be user-friendly and not require extensive technical knowledge. We'll see how well I did with that. 
 
+Certainly! Here is the paragraph explaining how to check out the repository from GitHub for both Windows and Mac:
+
+## Checking Out the Repository from GitHub
+
+To get the code from GitHub, follow these instructions:
+
+1. **Windows (PowerShell)**:
+   - Ensure you have [Git](https://git-scm.com/download/win) installed. If not, download and install it from the provided link.
+   - Open PowerShell and navigate to the directory where you want to clone the repository.
+   - Run the following command:
+     ```powershell
+     git clone https://github.com/yourusername/yourrepository.git
+     ```
+   - Replace `yourusername` and `yourrepository` with the actual GitHub username and repository name.
+
+2. **Mac (Terminal)**:
+   - Ensure you have [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed. You can install it via Homebrew by running `brew install git` if you don't have it.
+   - Open Terminal and navigate to the directory where you want to clone the repository.
+   - Run the following command:
+     ```sh
+     git clone https://github.com/yourusername/yourrepository.git
+     ```
+   - Replace `yourusername` and `yourrepository` with the actual GitHub username and repository name.
+
+This will create a local copy of the repository on your machine, which you can then navigate to and run the scripts as described in the README.
+
 ## Installation
 
 ### Python Installation
